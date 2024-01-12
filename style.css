@@ -1,0 +1,39 @@
+* {
+    /* background-color: black; */
+}
+
+#heading {
+    font-size:xx-large;
+    font-family: 'Oswald', sans-serif;
+
+
+}
+
+h1 {
+    color: blue;
+    text-decoration: underline;
+}
+
+h2 {
+    color: black;
+    font-family: 'Oswald', sans-serif;
+    text-decoration: underline;
+}
+
+
+.article {
+    color: black;
+    background-color: orange;   
+    font-family: 'Poppins', sans-serif;
+}
+
+.odd {
+    font-family: 'Poppins', sans-serif;
+    font-size: small;
+}
+
+.end {
+    color: black;
+    font-size: 10%;
+}
+
